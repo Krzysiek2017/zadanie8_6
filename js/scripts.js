@@ -5,4 +5,4 @@ if (value > 0)
     alert('wynik dodatni');
 else if (value < 0)
     alert('wynik ujemny');
-console.log(' (a * a) + (2 * a * b) - (b * b)= ' + value);git status
+console.log(' (a * a) + (2 * a * b) - (b * b)= ' + value);
